@@ -1,3 +1,5 @@
+Play the Casco Bay High School version of this game at http://jrp317.github.io/2048-cbhs
+
 All of the credit for the base code, creation, and idea goes to https://github.com/gabrielecirulli/2048. I (Josie Pierce) changed the images, colors, and text to make a fun version of it. Below is the liscensing stuff and screenshots for the original game.
 
 # 2048
